@@ -1,0 +1,15 @@
+# ======================
+#  GENERAL INFORMATIONS
+# ======================
+
+name: Rankers
+api: [4.0.0]
+version: 1.0.0
+main: Minestrap\Rankers\Main
+
+# ======================
+#   OTHER INFORMATIONS
+# ======================
+
+author: ["HenryDM"]
+website: 'https://rankers.github.io/'
