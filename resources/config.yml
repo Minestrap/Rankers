@@ -1,4 +1,25 @@
 ---
+# =========================
+#      GENERAL CONFIGS
+# =========================
+
+# =========================
+#      COUNTER OPTIONS
+# =========================
+# Instructions: Set to false to disable features that you want to desactive
+
+kill-counter: true
+death-counter: true
 break-counter: true
-break-counter-worlds: ["world"]
+place-counter: true
+
+# =========================
+#      COUNTER WORLDS
+# =========================
+# Instructions: Add worlds that you want to active the counter function
+
+kill-counter-worlds: ["Arena", "world"]
+death-counter-worlds: ["Arena, "world"]
+break-counter-worlds: ["Mine", "world"]
+place-counter-worlds: ["Plot", "world"]
 ...
